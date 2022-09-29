@@ -1,0 +1,198 @@
+﻿continent,country,suicide,population,norm
+Africa,Algeria,0,0,0
+Africa,Angola,0,0,0
+Africa,Benin,0,0,0
+Africa,Botswana,0,0,0
+Africa,Burkina,0,0,0
+Africa,Burundi,0,0,0
+Africa,Cameroon,0,0,0
+Africa,Cape Verde,42,452179,9.288357044
+Africa,Central African Republic,0,0,0
+Africa,Chad,0,0,0
+Africa,Comoros,0,0,0
+Africa,Congo,0,0,0
+Africa,"Congo, Democratic Republic of",0,0,0
+Africa,Djibouti,0,0,0
+Africa,Egypt,0,0,0
+Africa,Equatorial Guinea,0,0,0
+Africa,Eritrea,0,0,0
+Africa,Ethiopia,0,0,0
+Africa,Gabon,0,0,0
+Africa,Gambia,0,0,0
+Africa,Ghana,0,0,0
+Africa,Guinea,0,0,0
+Africa,Guinea-Bissau,0,0,0
+Africa,Ivory Coast,0,0,0
+Africa,Kenya,0,0,0
+Africa,Lesotho,0,0,0
+Africa,Liberia,0,0,0
+Africa,Libya,0,0,0
+Africa,Madagascar,0,0,0
+Africa,Malawi,0,0,0
+Africa,Mali,0,0,0
+Africa,Mauritania,0,0,0
+Africa,Mauritius,3894,33411909,11.65452713
+Africa,Morocco,0,0,0
+Africa,Mozambique,0,0,0
+Africa,Namibia,0,0,0
+Africa,Niger,0,0,0
+Africa,Nigeria,0,0,0
+Africa,Rwanda,0,0,0
+Africa,Sao Tome and Principe,0,0,0
+Africa,Senegal,0,0,0
+Africa,Seychelles,98,1392816,7.036105272
+Africa,Sierra Leone,0,0,0
+Africa,Somalia,0,0,0
+Africa,South Africa,7321,873130762,0.838476929
+Africa,South Sudan,0,0,0
+Africa,Sudan,0,0,0
+Africa,Swaziland,0,0,0
+Africa,Tanzania,0,0,0
+Africa,Togo,0,0,0
+Africa,Tunisia,0,0,0
+Africa,Uganda,0,0,0
+Africa,Zambia,0,0,0
+Africa,Zimbabwe,0,0,0
+Asia,Afghanistan,0,0,0
+Asia,Bahrain,463,16753926,2.763531366
+Asia,Bangladesh,0,0,0
+Asia,Bhutan,0,0,0
+Asia,Brunei,0,0,0
+Asia,Burma (Myanmar),0,0,0
+Asia,Cambodia,0,0,0
+Asia,China,0,0,0
+Asia,East Timor,0,0,0
+Asia,India,0,0,0
+Asia,Indonesia,0,0,0
+Asia,Iran,0,0,0
+Asia,Iraq,0,0,0
+Asia,Israel,11294,173071788,6.525615833
+Asia,Japan,806902,3681024844,21.92058012
+Asia,Jordan,0,0,0
+Asia,Kazakhstan,101546,377513869,26.89861442
+Asia,"Korea, North",0,0,0
+Asia,North Korea,261730,1354944936,19.31665214
+Asia,Kuwait,966,57109991,1.691472863
+Asia,Kyrgyzstan,13090,115174187,11.36539388
+Asia,Laos,0,0,0
+Asia,Lebanon,0,0,0
+Asia,Malaysia,0,0,0
+Asia,Macau,27,346542,7.791263397
+Asia,Maldives,20,2900246,0.689596676
+Asia,Mongolia,423,2167589,19.51476964
+Asia,Nepal,0,0,0
+Asia,Oman,33,8987087,0.367193508
+Asia,Pakistan,0,0,0
+Asia,Philippines,21330,1065068179,2.002688694
+Asia,Qatar,574,21870545,2.624534505
+Asia,Russia,1209742,3690802620,32.7772066
+Asia,Saudi Arabia,0,0,0
+Asia,Singapore,10089,94242441,10.70536787
+Asia,Sri Lanka,55641,182525626,30.48393873
+Asia,Syria,0,0,0
+Asia,Tajikistan,0,0,0
+Asia,Thailand,110643,1584800281,6.981510625
+Asia,Turkey,10131,482640582,2.099077528
+Asia,Turkmenistan,8624,115576818,7.461703955
+Asia,United Arab Emirates,622,36502275,1.704003381
+Asia,Uzbekistan,34803,486422532,7.154890596
+Asia,Vietnam,0,0,0
+Asia,Yemen,0,0,0
+Europe,Albania,1970,62325467,3.160826697
+Europe,Andorra,0,0,0
+Europe,Armenia,1905,77348173,2.46288946
+Europe,Austria,50073,243853094,20.53408435
+Europe,Azerbaijan,1656,111790300,1.481344983
+Europe,Belarus,59892,197372292,30.34468486
+Europe,Belgium,62761,303302621,20.69253467
+Europe,Bosnia and Herzegovina,318,7327481,4.339827016
+Europe,Bulgaria,36388,231939958,15.68854298
+Europe,Croatia,18429,91730351,20.09040606
+Europe,Cyprus,412,11607462,3.549440868
+Europe,Czech Republic,43687,264106540,16.54143059
+Europe,Denmark,15297,112182219,13.63585079
+Europe,Estonia,7034,27090810,25.9645245
+Europe,Finland,33677,141925658,23.72861995
+Europe,France,329127,1670756775,19.69927669
+Europe,Georgia,3224,93598800,3.444488605
+Europe,Germany,291262,2024875612,14.38419221
+Europe,Greece,12368,316096105,3.912734072
+Europe,Hungary,73891,248644256,29.7175576
+Europe,Iceland,1108,8407904,13.17807625
+Europe,Ireland,12574,109023686,11.5332736
+Europe,Italy,132060,1715043704,7.700095321
+Europe,Latvia,12770,44852640,28.47101085
+Europe,Liechtenstein,0,0,0
+Europe,Lithuania,28039,68085210,41.18221858
+Europe,Luxembourg,1958,12953156,15.11600725
+Europe,Macedonia,0,0,0
+Europe,Malta,585,11227403,5.210465858
+Europe,Moldova,0,0,0
+Europe,Monaco,0,0,0
+Europe,Montenegro,472,5834863,8.089307324
+Europe,Netherlands,50833,475361269,10.69355106
+Europe,Norway,16992,127973087,13.27779176
+Europe,Poland,139098,866180029,16.05878632
+Europe,Portugal,24061,261258816,9.20964137
+Europe,Romania,72777,575065963,12.65541776
+Europe,San Marino,4,78825,5.074532192
+Europe,Serbia,24179,126140138,19.16836336
+Europe,Slovakia,13437,111833713,12.0151604
+Europe,Slovenia,10615,40268619,26.36047688
+Europe,Spain,100202,1227661095,8.162024553
+Europe,Sweden,37795,253297131,14.92121125
+Europe,Switzerland,26217,149994010,17.47869798
+Europe,Ukraine,319950,1286469184,24.87039752
+Europe,United Kingdom,136805,1738767780,7.867928172
+Europe,Vatican City,0,0,0
+North America,Antigua and Barbuda,11,1990228,0.552700495
+North America,Bahamas,93,6557048,1.418321171
+North America,Barbados,177,6213691,2.848548471
+North America,Belize,348,6289015,5.533457942
+North America,Canada,107561,826052183,13.02109022
+North America,Costa Rica,6792,102176788,6.647302321
+North America,Cuba,41418,251790133,16.44941345
+North America,Dominica,0,66400,0
+North America,Dominican Republic,0,0,0
+North America,El Salvador,11683,124683698,9.370110277
+North America,Grenada,38,2347286,1.618890923
+North America,Guatemala,8149,305357837,2.668672296
+North America,Haiti,0,0,0
+North America,Honduras,0,0,0
+North America,Jamaica,184,39481817,0.466037315
+North America,Mexico,111139,2772959159,4.007956613
+North America,Nicaragua,2013,31742633,6.341628938
+North America,Panama,3483,70265659,4.956902205
+North America,Puerto Rico,9043,105386625,8.580785275
+North America,Saint Kitts and Nevis,0,117300,0
+North America,Saint Lucia,230,3910520,5.881570737
+North America,Saint Vincent and the Grenadines,0,0,0
+North America,Trinidad and Tobago,4039,31243097,12.92765567
+North America,United States,1034013,8054027201,12.83845925
+Oceania,Australia,70111,542377786,12.92659873
+Oceania,Fiji,304,8187391,3.713026531
+Oceania,Kiribati,53,741606,7.146651996
+Oceania,Marshall Islands,0,0,0
+Oceania,Micronesia,0,0,0
+Oceania,Nauru,0,0,0
+Oceania,New Zealand,14383,103090430,13.95182851
+Oceania,Palau,0,0,0
+Oceania,Papua New Guinea,0,0,0
+Oceania,Samoa,0,0,0
+Oceania,Solomon Islands,0,0,0
+Oceania,Tonga,0,0,0
+Oceania,Tuvalu,0,0,0
+Oceania,Vanuatu,0,0,0
+South America,Argentina,82219,1035985431,7.936308517
+South America,Aruba,101,1259677,8.017928405
+South America,Bolivia,0,0,0
+South America,Brazil,226613,4856093548,4.666569904
+South America,Chile,40895,427625092,9.563283532
+South America,Colombia,53080,1107941966,4.790864651
+South America,Ecuador,20660,344327990,6.000093109
+South America,Guyana,3426,16594589,20.64528383
+South America,Paraguay,4783,124641969,3.83739124
+South America,Peru,0,0,0
+South America,Suriname,2166,11639269,18.60941611
+South America,Uruguay,13138,84068943,15.6276498
+South America,Venezuela,0,0,0
