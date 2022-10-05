@@ -1,0 +1,101 @@
+Row,Column,Percentage,Regions,Percentage_Regions
+1,1,1%,Asia,40%
+1,2,2%,Asia,40%
+1,3,3%,Asia,40%
+1,4,4%,Asia,40%
+1,5,5%,Asia,40%
+1,6,6%,Asia,40%
+1,7,7%,Asia,40%
+1,8,8%,Asia,40%
+1,9,9%,Asia,40%
+1,10,10%,Asia,40%
+2,1,11%,Asia,40%
+2,2,12%,Asia,40%
+2,3,13%,Asia,40%
+2,4,14%,Asia,40%
+2,5,15%,Asia,40%
+2,6,16%,Asia,40%
+2,7,17%,Asia,40%
+2,8,18%,Asia,40%
+2,9,19%,Asia,40%
+2,10,20%,Asia,40%
+3,1,21%,Asia,40%
+3,2,22%,Asia,40%
+3,3,23%,Asia,40%
+3,4,24%,Asia,40%
+3,5,25%,Asia,40%
+3,6,26%,Asia,40%
+3,7,27%,Asia,40%
+3,8,28%,Asia,40%
+3,9,29%,Asia,40%
+3,10,30%,Asia,40%
+4,1,31%,Asia,40%
+4,2,32%,Asia,40%
+4,3,33%,Asia,40%
+4,4,34%,Asia,40%
+4,5,35%,Asia,40%
+4,6,36%,Asia,40%
+4,7,37%,Asia,40%
+4,8,38%,Asia,40%
+4,9,39%,Asia,40%
+4,10,40%,Asia,40%
+5,1,41%,Europe,33%
+5,2,42%,Europe,33%
+5,3,43%,Europe,33%
+5,4,44%,Europe,33%
+5,5,45%,Europe,33%
+5,6,46%,Europe,33%
+5,7,47%,Europe,33%
+5,8,48%,Europe,33%
+5,9,49%,Europe,33%
+5,10,50%,Europe,33%
+6,1,51%,Europe,33%
+6,2,52%,Europe,33%
+6,3,40%,Europe,33%
+6,4,54%,Europe,33%
+6,5,55%,Europe,33%
+6,6,56%,Europe,33%
+6,7,57%,Europe,33%
+6,8,58%,Europe,33%
+6,9,59%,Europe,33%
+6,10,60%,Europe,33%
+7,1,61%,Europe,33%
+7,2,62%,Europe,33%
+7,3,63%,Europe,33%
+7,4,64%,Europe,33%
+7,5,65%,Europe,33%
+7,6,66%,Europe,33%
+7,7,67%,Europe,33%
+7,8,68%,Europe,33%
+7,9,69%,Europe,33%
+7,10,70%,Europe,33%
+8,1,71%,Europe,33%
+8,2,72%,Europe,33%
+8,3,73%,Europe,33%
+8,4,74%,North America,19%
+8,5,75%,North America,19%
+8,6,76%,North America,19%
+8,7,77%,North America,19%
+8,8,78%,North America,19%
+8,9,79%,North America,19%
+8,10,80%,North America,19%
+9,1,81%,North America,19%
+9,2,82%,North America,19%
+9,3,83%,North America,19%
+9,4,84%,North America,19%
+9,5,85%,North America,19%
+9,6,86%,North America,19%
+9,7,87%,North America,19%
+9,8,88%,North America,19%
+9,9,89%,North America,19%
+9,10,90%,North America,19%
+10,1,91%,North America,19%
+10,2,92%,North America,19%
+10,3,93%,Oceania,1%
+10,4,94%,South America,7%
+10,5,95%,South America,7%
+10,6,96%,South America,7%
+10,7,97%,South America,7%
+10,8,98%,South America,7%
+10,9,99%,South America,7%
+10,10,100%,South America,7%
